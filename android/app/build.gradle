@@ -51,8 +51,8 @@ android {
         applicationId "com.mycompany.comid"
         minSdkVersion 21
         targetSdkVersion 33
-        versionCode flutterVersionCode.toInteger()
-        versionName flutterVersionName
+        versionCode 2
+        versionName 1.0.1
     }
 
    signingConfigs {
